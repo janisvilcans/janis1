@@ -4,8 +4,8 @@ from . import __version__ as app_version
 
 app_name = "janis"
 app_title = "Janis"
-app_publisher = "es"
-app_description = "KO tu gribi"
+app_publisher = "App publišeris"
+app_description = "App apraksts"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "j@j.lv"
@@ -110,4 +110,3 @@ app_license = "MIT"
 # override_whitelisted_methods = {
 # 	"frappe.desk.doctype.event.event.get_events": "janis.event.get_events"
 # }
-
